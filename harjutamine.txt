@@ -1,2 +1,7 @@
-GitHub on veebiplatvorm, kus arendajad saavad salvestada, jagada ja hallata oma koodi.
-See võimaldab koostööd projektides, jälgida muudatusi ja kasutada versioonihaldust Git’i abil.
+Tulevikus saab GitHubi kasutada mitmel viisil:
+
+Koostööprojektid: arendajad üle maailma saavad ühiselt arendada tarkvara.
+Õppimine: õppijad saavad uurida teiste koodi ja õppida programmeerimist.
+Automatiseerimine: töövoogude ja CI/CD (Continuous Integration/Continuous Deployment) abil saab testimist ja väljalaskeid automatiseerida.
+Portfoolio: arendajad saavad näidata oma projekte tööandjatele.
+Avatud lähtekood: aidata kaasa ülemaailmsetele avatud lähtekoodiga projektidele ja kogukondadele.
