@@ -1,0 +1,2 @@
+GitHub Inc. asutati 2008. aastal Tom Preston-Warneri, Chris Wanstrathi, P. J. Hyetti ja Scott Chaconi poolt. 
+Sama aasta aprillis tehti GitHubi teenus avalikkusele kättesaadavaks, pakkudes arendajatele lihtsat viisi Git-versioonihalduse kasutamiseks ja koostööks tarkvaraprojektides.
